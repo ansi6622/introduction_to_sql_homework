@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS url_shortener_Anthony_Simpson;
+DROP DATABASE IF EXISTS url_shortener_anthony_simpson;
 DROP TABLE IF EXISTS urls;
-CREATE DATABASE url_shortener_Anthony_Simpson;
-\c url_shortener_Anthony_Simpson;
+CREATE DATABASE url_shortener_anthony_aimpson;
+\c url_shortener_anthony_simpson;
 
 CREATE TABLE urls (
   id SERIAL,
